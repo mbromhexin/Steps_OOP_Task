@@ -1,0 +1,14 @@
+C:\Users\smart\source\repos\Steps_OOP_01\Steps_OOP_01\bin\Debug\net8.0\Steps_OOP_01.exe
+C:\Users\smart\source\repos\Steps_OOP_01\Steps_OOP_01\bin\Debug\net8.0\Steps_OOP_01.deps.json
+C:\Users\smart\source\repos\Steps_OOP_01\Steps_OOP_01\bin\Debug\net8.0\Steps_OOP_01.runtimeconfig.json
+C:\Users\smart\source\repos\Steps_OOP_01\Steps_OOP_01\bin\Debug\net8.0\Steps_OOP_01.dll
+C:\Users\smart\source\repos\Steps_OOP_01\Steps_OOP_01\bin\Debug\net8.0\Steps_OOP_01.pdb
+C:\Users\smart\source\repos\Steps_OOP_01\Steps_OOP_01\obj\Debug\net8.0\Steps_OOP_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smart\source\repos\Steps_OOP_01\Steps_OOP_01\obj\Debug\net8.0\Steps_OOP_01.AssemblyInfoInputs.cache
+C:\Users\smart\source\repos\Steps_OOP_01\Steps_OOP_01\obj\Debug\net8.0\Steps_OOP_01.AssemblyInfo.cs
+C:\Users\smart\source\repos\Steps_OOP_01\Steps_OOP_01\obj\Debug\net8.0\Steps_OOP_01.csproj.CoreCompileInputs.cache
+C:\Users\smart\source\repos\Steps_OOP_01\Steps_OOP_01\obj\Debug\net8.0\Steps_OOP_01.dll
+C:\Users\smart\source\repos\Steps_OOP_01\Steps_OOP_01\obj\Debug\net8.0\refint\Steps_OOP_01.dll
+C:\Users\smart\source\repos\Steps_OOP_01\Steps_OOP_01\obj\Debug\net8.0\Steps_OOP_01.pdb
+C:\Users\smart\source\repos\Steps_OOP_01\Steps_OOP_01\obj\Debug\net8.0\Steps_OOP_01.genruntimeconfig.cache
+C:\Users\smart\source\repos\Steps_OOP_01\Steps_OOP_01\obj\Debug\net8.0\ref\Steps_OOP_01.dll
